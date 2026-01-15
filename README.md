@@ -1,2 +1,2 @@
 # rsfp
-rust system for python
+rust system for python and by python
